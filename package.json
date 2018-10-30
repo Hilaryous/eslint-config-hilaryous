@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-hilaryous",
+  "version": "1.0.0",
+  "author": "Hilary Denton <hilaryous.denton@gmail.com>",
+  "description": "ESLint configuration based off of Airbnb's config paired with the flowtype plugin",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/hilaryous/eslint-config-hilaryous",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hilaryous/eslint-config-hilaryous"
+  },
+  "dependencies": {
+    "babel-eslint": "8.2.6",
+    "eslint-config-airbnb": "17.0.0",
+    "eslint-plugin-flowtype": "2.50.0",
+    "eslint-plugin-import": "2.13.0",
+    "eslint-plugin-jsx-a11y": "6.1.1",
+    "eslint-plugin-react": "7.10.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 4"
+  }
+}
