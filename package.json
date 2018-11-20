@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hilaryous",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Hilary Denton <hilaryous.denton@gmail.com>",
   "description": "ESLint configuration based off of Airbnb's config paired with the flowtype plugin",
   "main": "index.js",
