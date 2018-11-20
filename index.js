@@ -15,12 +15,10 @@ module.exports = {
     node: true
   },
   rules: {
-    'object-curly-newline': 'off',
     'react/jsx-filename-extension': 'off',
     'jsx-a11y/anchor-is-valid': ['error', {
       'components': ['Link'],
       'specialLink': ['to']
     }],
-    semi: ['error', 'never']
   }
 }
